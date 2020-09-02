@@ -1,0 +1,11 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+      "tslint:recommended",
+      "tslint:latest"
+    ],
+    "rules": {
+      "prettier": [true, ".prettierrc"]
+    }
+  }
+  
